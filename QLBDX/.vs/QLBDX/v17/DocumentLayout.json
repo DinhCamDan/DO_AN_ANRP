@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TTNT\\\u0110\u1ED2 \u00C1N\\QLBDX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA2FCF-2B89-48C9-912A-D797E2683ED1}|QLBDX\\QLBDX.csproj|d:\\ttnt\\\u0111\u1ED3 \u00E1n\\qlbdx\\qlbdx\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60EA2FCF-2B89-48C9-912A-D797E2683ED1}|QLBDX\\QLBDX.csproj|solutionrelative:qlbdx\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA2FCF-2B89-48C9-912A-D797E2683ED1}|QLBDX\\QLBDX.csproj|D:\\TTNT\\\u0110\u1ED2 \u00C1N\\QLBDX\\qlbdx\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60EA2FCF-2B89-48C9-912A-D797E2683ED1}|QLBDX\\QLBDX.csproj|solutionrelative:qlbdx\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\TTNT\\\u0110\u1ED2 \u00C1N\\QLBDX\\QLBDX\\Form1.cs",
+              "RelativeDocumentMoniker": "QLBDX\\Form1.cs",
+              "ToolTip": "D:\\TTNT\\\u0110\u1ED2 \u00C1N\\QLBDX\\QLBDX\\Form1.cs",
+              "RelativeToolTip": "QLBDX\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAnwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:13:05.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\TTNT\\\u0110\u1ED2 \u00C1N\\QLBDX\\QLBDX\\Form1.cs",
+              "RelativeDocumentMoniker": "QLBDX\\Form1.cs",
+              "ToolTip": "D:\\TTNT\\\u0110\u1ED2 \u00C1N\\QLBDX\\QLBDX\\Form1.cs [Design]",
+              "RelativeToolTip": "QLBDX\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:01:19.983Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

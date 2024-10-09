@@ -1,0 +1,15 @@
+D:\TTNT\ĐỒ ÁN\QLBDX\QLBDX\bin\Debug\QLBDX.exe.config
+D:\TTNT\ĐỒ ÁN\QLBDX\QLBDX\bin\Debug\QLBDX.exe
+D:\TTNT\ĐỒ ÁN\QLBDX\QLBDX\bin\Debug\QLBDX.pdb
+D:\TTNT\ĐỒ ÁN\QLBDX\QLBDX\bin\Debug\EntityFramework.dll
+D:\TTNT\ĐỒ ÁN\QLBDX\QLBDX\bin\Debug\EntityFramework.SqlServer.dll
+D:\TTNT\ĐỒ ÁN\QLBDX\QLBDX\bin\Debug\EntityFramework.xml
+D:\TTNT\ĐỒ ÁN\QLBDX\QLBDX\bin\Debug\EntityFramework.SqlServer.xml
+D:\TTNT\ĐỒ ÁN\QLBDX\QLBDX\obj\Debug\QLBDX.csproj.AssemblyReference.cache
+D:\TTNT\ĐỒ ÁN\QLBDX\QLBDX\obj\Debug\QLBDX.Form1.resources
+D:\TTNT\ĐỒ ÁN\QLBDX\QLBDX\obj\Debug\QLBDX.Properties.Resources.resources
+D:\TTNT\ĐỒ ÁN\QLBDX\QLBDX\obj\Debug\QLBDX.csproj.GenerateResource.cache
+D:\TTNT\ĐỒ ÁN\QLBDX\QLBDX\obj\Debug\QLBDX.csproj.CoreCompileInputs.cache
+D:\TTNT\ĐỒ ÁN\QLBDX\QLBDX\obj\Debug\QLBDX.csproj.Up2Date
+D:\TTNT\ĐỒ ÁN\QLBDX\QLBDX\obj\Debug\QLBDX.exe
+D:\TTNT\ĐỒ ÁN\QLBDX\QLBDX\obj\Debug\QLBDX.pdb
